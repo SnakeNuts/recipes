@@ -15,7 +15,7 @@ title: "Recipe Index"
 
 | Recipe | Total | Servings | Per Serving | Level |
 |--------|-------|----------|-------------|-------|
-| [Butter Chicken](processed/Butter%20Chicken.md) | ~5,550 kcal | 4 | ~1,400 kcal | Indulgent |
+| [Butter Chicken](processed/Butter%20Chicken) | ~5,550 kcal | 4 | ~1,400 kcal | Indulgent |
 | [Chicken Thighs with Creamy Mustard Sauce](processed/Chicken%20Thighs%20with%20Creamy%20Mustard%20Sauce.md) | ~3,950 kcal | 8 | ~494 kcal | Moderate |
 | [Creamy Chicken and Chorizo](processed/Creamy%20Chicken%20and%20Chorizo.md) | ~2,700 kcal | 3–4 | ~775 kcal | Hearty |
 | [Creamy Garlic Parmesan Chicken](processed/Creamy%20Garlic%20Parmesan%20Chicken.md) | ~2,450 kcal | — | — | — |
