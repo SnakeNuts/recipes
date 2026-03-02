@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Mac and Cheese"
+---
+
 # Mac and Cheese
 
 Serves 4-5 people.

@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Soft Bread Rolls"
+---
+
 # Soft Bread Rolls
 
 ## Ingredients

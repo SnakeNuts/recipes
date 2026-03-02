@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Stampot Boerenkool"
+---
+
 # Stampot Boerenkool
 
 Mashed Potatoes with Kale.

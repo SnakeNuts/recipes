@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Gehaktbroodje Saté"
+---
+
 # Gehaktbroodje Saté
 
 Meatball Satay Roll - The perfect hangover cure.

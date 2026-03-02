@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Sausage and Lentils with Sauce Verte"
+---
+
 # Sausage and Lentils with Sauce Verte
 
 Serves 4.

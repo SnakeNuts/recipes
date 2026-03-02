@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Sandwich Bread Rolls"
+---
+
 # Sandwich Bread Rolls
 
 The ultimate sandwich roll recipe - it's really easy, even if you've never made bread before. They freeze really well but are also excellent straight from the oven.

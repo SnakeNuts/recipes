@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "One-Pan Turmeric Chicken and Potatoes"
+---
+
 # One-Pan Turmeric Chicken and Potatoes
 
 One simple dish that opens up a whole world of memories.

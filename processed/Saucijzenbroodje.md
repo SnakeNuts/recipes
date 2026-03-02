@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Saucijzenbroodje"
+---
+
 # Saucijzenbroodje
 
 A super simple and delicious snack!

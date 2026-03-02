@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Sheet-Pan Beef Kebabs"
+---
+
 # Sheet-Pan Beef Kebabs
 
 Juicy, high-protein, weeknight-easy. No skewers. No fuss.

@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Comforting Cottage Pie"
+---
+
 # Comforting Cottage Pie
 
 ## Ingredients

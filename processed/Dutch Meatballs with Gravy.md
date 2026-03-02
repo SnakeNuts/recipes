@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Dutch Meatballs with Gravy"
+---
+
 # Dutch Meatballs with Gravy
 
 Also known as Oma's Meatball.

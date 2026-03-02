@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Beef Stew Cottage Pie"
+---
+
 # Beef Stew Cottage Pie
 
 ## Ingredients

@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Recipe Index"
+---
+
 # Recipe Index
 
 46 recipes organised by dish type. Calorie levels are per serving where available, or total where no serving size is given.

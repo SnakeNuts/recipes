@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Easy Vegan Japanese Curry"
+---
+
 # Easy Vegan Japanese Curry
 
 Easy Japanese curry that happens to be vegan!

@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Greek Flatbread"
+---
+
 # Greek Flatbread
 
 Yields 8 flatbreads. Incredibly simple to make, comes together in just over an hour.

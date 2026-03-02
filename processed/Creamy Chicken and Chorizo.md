@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Creamy Chicken and Chorizo"
+---
+
 # Creamy Chicken and Chorizo
 
 Serves 3-4.

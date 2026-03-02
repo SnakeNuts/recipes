@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Butter Chicken"
+---
+
 # Butter Chicken
 
 A perfect dish to meal prep for the rest of the week. Simply heat it up and serve with cumin yellow rice and a fresh side salad.

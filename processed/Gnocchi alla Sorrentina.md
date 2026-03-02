@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Gnocchi alla Sorrentina"
+---
+
 # Gnocchi alla Sorrentina
 
 ## Ingredients

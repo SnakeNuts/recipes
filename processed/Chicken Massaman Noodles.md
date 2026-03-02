@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Chicken Massaman Noodles"
+---
+
 # Chicken Massaman Noodles
 
 Usually served with rice, but adding in noodles to this one pot wonder is a game changer.

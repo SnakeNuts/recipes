@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Draadjesvlees"
+---
+
 # Draadjesvlees
 
 A famous Dutch beef stew!

@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Broodje Kroket"
+---
+
 # Broodje Kroket
 
 A simple looking sandwich that packs a punch. Full of flavour with soft white bread, a crispy outside to the kroket, and gooey, meaty centre.

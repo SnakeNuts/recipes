@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Groningse Eierbal"
+---
+
 # Groningse Eierbal
 
 A famous Groningse treat!

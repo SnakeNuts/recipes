@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Marry Me Sausage Pie"
+---
+
 # Marry Me Sausage Pie
 
 Feeds 4-6.

@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Vanillevla"
+---
+
 # Vanillevla
 
 Vanilla Custard is really easy to make yourself!

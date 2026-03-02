@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Baked Chicken Tacos"
+---
+
 # Baked Chicken Tacos
 
 ## Ingredients

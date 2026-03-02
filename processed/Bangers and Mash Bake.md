@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Bangers and Mash Bake"
+---
+
 # Bangers and Mash Bake
 
 Easy, simple, delicious and affordable baked meatballs and onion gravy topped with cheese.

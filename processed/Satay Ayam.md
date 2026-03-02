@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Satay Ayam"
+---
+
 # Satay Ayam
 
 ## Ingredients

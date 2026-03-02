@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Chicken Tikka Rice Bake"
+---
+
 # Chicken Tikka Rice Bake
 
 ## Ingredients

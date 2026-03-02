@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "One-Pan Chicken Shawarma with Roasted Garlic Sauce"
+---
+
 # One-Pan Chicken Shawarma with Roasted Garlic Sauce
 
 All the flavor, none of the fuss. Weeknight shawarma is officially a thing.

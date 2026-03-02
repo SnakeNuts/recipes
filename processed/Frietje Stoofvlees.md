@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Frietje Stoofvlees"
+---
+
 # Frietje Stoofvlees
 
 Fries with Braised Beef.

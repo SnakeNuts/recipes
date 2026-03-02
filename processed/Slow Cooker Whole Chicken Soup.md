@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Slow Cooker Whole Chicken Soup"
+---
+
 # Slow Cooker Whole Chicken Soup
 
 Makes 4-6 servings (suitable for freezing).

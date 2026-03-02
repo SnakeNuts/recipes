@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Slow Cooker Beef Rendang"
+---
+
 # Slow Cooker Beef Rendang
 
 Serves 4.

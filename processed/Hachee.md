@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Hachee"
+---
+
 # Hachee
 
 Recipe for 4 servings.

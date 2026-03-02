@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Tuscan Chicken Loaded Potatoes"
+---
+
 # Tuscan Chicken Loaded Potatoes
 
 Creamy Tuscan chicken with sundried tomatoes, spinach and basil on top of crispy cubed potatoes all made in under 20 minutes.

@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Berenklauw"
+---
+
 # Berenklauw
 
 A meatball and onion dish that is fantastic, or as we say berelekker!

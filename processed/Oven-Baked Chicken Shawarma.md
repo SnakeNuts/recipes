@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Oven-Baked Chicken Shawarma"
+---
+
 # Oven-Baked Chicken Shawarma
 
 The chicken comes out so juicy, so flavorful, and it makes for easy meals all week long.

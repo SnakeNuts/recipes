@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Rodekool met Appeltjes"
+---
+
 # Rodekool met Appeltjes
 
 Red Cabbage with Apples.

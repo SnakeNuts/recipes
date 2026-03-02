@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Honey Milk Bread"
+---
+
 # Honey Milk Bread
 
 The easiest, softest, most tender bread ever!

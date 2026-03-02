@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Broodje Grillworst"
+---
+
 # Broodje Grillworst
 
 ## Ingredients

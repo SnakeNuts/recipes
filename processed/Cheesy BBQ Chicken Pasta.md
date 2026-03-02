@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Cheesy BBQ Chicken Pasta"
+---
+
 # Cheesy BBQ Chicken Pasta
 
 Serves 4.

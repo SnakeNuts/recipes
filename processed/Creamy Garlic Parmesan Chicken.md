@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Creamy Garlic Parmesan Chicken"
+---
+
 # Creamy Garlic Parmesan Chicken
 
 Big flavor, no fuss. Creamy, garlicky, and totally spoon-lick-worthy.

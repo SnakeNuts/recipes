@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Cheesy Chicken Crunch Pockets"
+---
+
 # Cheesy Chicken Crunch Pockets
 
 ## Ingredients

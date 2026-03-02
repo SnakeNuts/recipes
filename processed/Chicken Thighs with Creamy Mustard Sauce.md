@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Chicken Thighs with Creamy Mustard Sauce"
+---
+
 # Chicken Thighs with Creamy Mustard Sauce
 
 ## Ingredients

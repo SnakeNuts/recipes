@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Frikandel Speciaal"
+---
+
 # Frikandel Speciaal
 
 ## Ingredients

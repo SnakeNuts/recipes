@@ -1,3 +1,8 @@
+---
+layout: recipe
+title: "Cheese Crackers"
+---
+
 # Cheese Crackers
 
 3 ingredient easy homemade cheese crackers. They cost just over 1 euro for the whole lot and can last up to a week if stored in an airtight container.
